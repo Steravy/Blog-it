@@ -1,5 +1,5 @@
 import React from 'react';
-import { getSortedPostsData } from '@/lib/posts';
+import { getSortedPostsData } from '@/lib/postsHandlers';
 import ListItem from './ListItem';
 
 export default function Posts() {
