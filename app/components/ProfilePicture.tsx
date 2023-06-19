@@ -4,7 +4,7 @@ const ProfilePicture = () => {
     return (
         <section>
             <Image
-                src="/images/profile-pitcure.jpg"
+                src="/images/picture.jpg"
                 alt="A profile picture of the user"
                 width={200}
                 height={200}
