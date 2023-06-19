@@ -10,7 +10,7 @@ const Navbar = () => {
                     <Link href="/" className="text-white/90 no-underline hover:text-white">Blog it</Link>
                 </h1>
 
-                <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-xl lg:text-2xl">
+                <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-xl lg:text-xl">
                     <Link className="text-white/90 hover:text-white" href="https://www.youtube.com/@DaveGrayTeachesCode">
                         <FaYoutube />
                     </Link>

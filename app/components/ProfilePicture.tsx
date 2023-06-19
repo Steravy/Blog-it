@@ -2,7 +2,7 @@ import Image from "next/image";
 
 const ProfilePicture = () => {
     return (
-        <section className="flex justify-center">
+        <section>
             <Image
                 src="/images/picture.jpg"
                 alt="A profile picture of the user"
